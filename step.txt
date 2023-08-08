@@ -1,0 +1,8 @@
+change the script
+for Running use npm run dev
+
+for DB connect to express
+
+for taking env file value we first install " npm i dotenv "
+then apply require("dotenv").config() in config < databse.js file
+
